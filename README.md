@@ -29,7 +29,6 @@
 * https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 * https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 
----------
 
 ## WHATSAPP BOT GROUP
 <a href="https://chat.whatsapp.com/D7L8NP2Vnz7Eplx4OAvZdP"><img title="WHATSAPP GROUP" src="https://img.shields.io/badge/Whatsapp Group-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -50,8 +49,6 @@ npm i
 npm update
 node .
 ```
-
----------
 
 ### Usage
 Run the Whatsapp bot
